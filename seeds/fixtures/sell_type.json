@@ -1,0 +1,26 @@
+[{
+  "title": "Maison",
+  "slug": "maison"
+  
+},
+{
+  "title": "Appartement",
+  "slug": "appartement"
+  
+},
+{
+  "title": "Terrain",
+  "slug": "terrain"
+  
+},
+{
+  "title": "Parking",
+  "slug": "parking"
+  
+},
+{
+  "title": "Autre",
+  "slug": "autre"
+  
+}
+]

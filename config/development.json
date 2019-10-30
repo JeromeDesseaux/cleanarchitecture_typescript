@@ -1,0 +1,8 @@
+{
+    "port": 3000,
+    "database": {
+        "host": "localhost",
+        "database": "sells",
+        "port": 27017
+    }
+}

@@ -1,0 +1,50 @@
+[{
+  "title": "Vierge",
+  "slug": "vierge"
+  
+},
+{
+  "title": "A (moins de 50)",
+  "slug": "a"
+  
+},
+{
+  "title": "B (de 51 à 90)",
+  "slug": "b"
+  
+},
+{
+  "title": "C (de 91 à 150)",
+  "slug": "c"
+},
+{
+  "title": "D (de 151 à 230)",
+  "slug": "d"
+  
+},
+{
+  "title": "E (de 231 à 330)",
+  "slug": "e"
+  
+},
+{
+  "title": "F (de 331 à 450)",
+  "slug": "f"
+  
+},
+{
+  "title": "G (de 451 à 590)",
+  "slug": "g"
+  
+},
+{
+  "title": "H (de 591 à 750)",
+  "slug": "h"
+  
+},
+{
+  "title": "I (751 et plus)",
+  "slug": "i"
+  
+}
+]
